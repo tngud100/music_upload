@@ -1,0 +1,8 @@
+secret/chatGPT_api_key.json
+secret/google_auth_client_secret.json
+secret/spotify_client.json
+secret/suno_cookie_api.json
+secret/token.json
+
+secret/
+.gitignore
